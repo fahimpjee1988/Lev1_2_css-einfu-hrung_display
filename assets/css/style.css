@@ -1,0 +1,21 @@
+body{
+    margin:0;
+   
+    background-image: url(/assets/img/484-200x200.jpg);
+    background-position: cover ;
+    background-repeat: repeat;
+}
+
+nav ul{
+
+    display: inline-block;
+    text-decoration: none;
+    
+
+} 
+nav{
+    position: relative;
+    background-color: black;
+    color: white;
+    opacity: 0.3;
+}
